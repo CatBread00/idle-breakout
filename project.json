@@ -1,0 +1,22 @@
+{
+    "name": "idle-breakout",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "build": "echo \"No build specified\" && exit 1",
+        "test": "echo \"No test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CatBread00/idle-breakout.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/CatBread00/idle-breakout/issues"
+    },
+    "homepage": "https://github.com/CatBread00/idle-breakout#readme"
+}
+ 
+
